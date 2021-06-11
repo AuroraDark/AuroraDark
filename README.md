@@ -24,12 +24,13 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521980076402"/></a>
 
 </p>
-
+<br>
+<br>
 <details>
     <summary><b>Um pouquinho sobre mim (CLIQUE PARA LER)</b></summary>
     <br>
     <p>
-     Sou graduanda de Análise e Desenvolvimento de Sistemas na FAETERJ-Rio, e nasci e cresci no RJ. Atualmente moro em Niterói - RJ.<br>
+     Sou graduanda de Análise e Desenvolvimento de Sistemas na FAETERJ-Rio, nasci e cresci no RJ. Atualmente moro em Niterói - RJ.<br>
      Meu amor pela tecnologia começou desde nova, lá pros meus bons 8 anos ou até menos, e eu vou te contar essa história! (Senta que lá vem textão!)<br>
      Sempre fui mais puxada pra área de exatas amava matemática e física, eram minhas matérias favoritas. Meu pai fazia Matemática na UFF para ingressar na área da tecnologia (nos velhos tempos era assim que funcionava), ele me dava desafios matemáticos para resolver quando eu tinha 4 anos de idade, sempre me dando a entender que aquilo era uma brincadeira e eu amava. Uma dessas brincadeiras era o "Mercadinho", onde eu precisava dar troco para os produtos que ele comprava, e os trocos ficavam cada vez mais difíceis, com trocos em centavos. É valido lembrar que nessa idade a maioria das crianças nem aprenderam a ler UMA palavra. Mas eu aceitava os desafios e passava deles, e quando passava era literalmente o sentimento de estar vencendo no jogo, meu pai e eu comemorávamos a cada vitória. Isso cresceu muito em mim, eu aprendi a fazer contas com soma de "lá vai um" com 4 anos de idade. Conforme fui crescendo, resolver esses desafios matemáticos e lógicos se tornaram mais divertidos pra mim ainda, eu sempre tirava as maiores notas em exatas e até ensinava aos meus colegas. Procurava as questões mais complexas e me desafiava a passar, desafios lógicos então, não parava até achar a resposta e quando achava eu fazia festa!<br>
    	Desde pequena eu era fascinada por saber como as coisas funcionavam, principalmente quando envolvia física e tecnologia. Eu queria entender como fazer aquilo e pensar "um dia eu quero criar coisas assim". Então meu primeiro sonho foi a área de eletrônica, lá pros meus 13 anos.<br>
