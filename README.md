@@ -21,9 +21,8 @@
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521980076402"/></a>
-
 </p>
-<br>
+
 <details>
     <summary><b>Um pouquinho sobre mim (CLIQUE PARA LER)</b></summary>
     <br>
