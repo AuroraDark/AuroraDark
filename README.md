@@ -25,7 +25,7 @@
 
 </p>
 
-<details open>
+<details>
     <summary><b>Um pouquinho sobre mim</b></summary>
     <br>
     <p>
