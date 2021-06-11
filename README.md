@@ -2,7 +2,6 @@
 
 <p align="left"> 
   Olá, seja bem-vindo!<br> Me chamo Andressa Silva e sou desenvolvedora <strong>Full-Stack</strong> Júnior.<br>
-
 </p>
 
 <p align="left">
@@ -25,7 +24,6 @@
 
 </p>
 <br>
-<br>
 <details>
     <summary><b>Um pouquinho sobre mim (CLIQUE PARA LER)</b></summary>
     <br>
@@ -45,9 +43,10 @@
 
 </details>
 
+
 <h3> :rocket: &nbsp;Minhas Skills </h3>
-<br>
-<br>
+
+
 **Linguagens e Frameworks**
 
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -64,8 +63,8 @@
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-<br>
-<br>
+
+
 **Ferramentas de Desenvolvimento e DevOps** 
 
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -74,11 +73,10 @@
  ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  ![IntelliJ Idea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-  <br>
-
 **Cloud**
 
   ![NetFly](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 
 <details open>
     <summary>⚙ <b>GitHub Analytics</b>: </summary>
