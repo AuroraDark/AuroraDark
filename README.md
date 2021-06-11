@@ -26,7 +26,7 @@
 </p>
 
 <details>
-    <summary><b>Um pouquinho sobre mim</b></summary>
+    <summary><h2><b>Um pouquinho sobre mim</b></h2></summary>
     <br>
     <p>
      Sou graduanda de Análise e Desenvolvimento de Sistemas na FAETERJ-Rio, e nasci e cresci no RJ. Atualmente moro em Niterói - RJ.<br>
