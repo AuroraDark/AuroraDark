@@ -4,9 +4,8 @@
   Olá, seja bem-vindo!<br> Me chamo Andressa Silva e sou desenvolvedora <strong>Full-Stack</strong> Júnior.<br>
 </p>
 
-<p align="left">
- <strong> Principais stacks: <strong>
-</p>
+**Principais stacks:**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
