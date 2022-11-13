@@ -66,7 +66,7 @@
     <summary>⚙ <b>GitHub Analytics</b>: </summary>
     <br>
     <p align="center">
-        <img height="180em" src="https://github-readme-stats-auroradark.vercel.app/api?username=auroradark&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+        <img height="180em" src="https://github-readme-stats-auroradark.vercel.app/api/?username=auroradark&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
         <img height="180em" src="https://github-readme-stats-auroradark.vercel.app/api/top-langs/?username=auroradark&layout=compact&count_private=true&langs_count=8&theme=tokyonight&include_all_commits=true"/>
     </p>
 </details>
