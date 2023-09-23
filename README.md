@@ -61,6 +61,17 @@
 
   ![NetFly](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+**RPA**
+- UiPath
+- BotCity
+- Automation Anywhere
+- Python (Selenium)
+- JavaScript (Puppeteer)
+
+**ERP**
+- SAP
+- Fluig
+- SYDLE
 
 <details open>
     <summary>⚙ <b>GitHub Analytics</b>: </summary>
