@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="pc">
 
 <p align="left"> 
-  Olá, seja bem-vindo!<br> Me chamo Andressa Silva e sou desenvolvedora <strong>Full-Stack</strong><br>
+  Olá, seja bem-vindo!<br> Me chamo Andressa Silva e sou desenvolvedora FullStack<br>
 </p>
 
 **Principais stacks:**
