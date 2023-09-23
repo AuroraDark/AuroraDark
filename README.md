@@ -69,8 +69,7 @@
 - JavaScript (Puppeteer)
 
 **ERP**
-- SAP
-- Fluig
+- TOTVS Fluig
 - SYDLE
 
 <details open>
